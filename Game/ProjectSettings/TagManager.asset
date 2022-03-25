@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  - Enchanter
+  - imuneplayer
+  - EnemyWeapon
+  - Blocking
+  - NPC
+  - environment
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Creature
+  - Player
+  - ImmunedPlayer
+  - sword
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2024703061
+    locked: 0
+  - name: Floor1
+    uniqueID: 3718518719
+    locked: 0
+  - name: Floor2
+    uniqueID: 785265551
+    locked: 0
+  - name: Creatures
+    uniqueID: 47086539
+    locked: 0
+  - name: Sword
+    uniqueID: 1525081783
+    locked: 0
+  - name: Wall
+    uniqueID: 2230708807
+    locked: 0
+  - name: Interactable
+    uniqueID: 1681081685
+    locked: 0
+  - name: Top
+    uniqueID: 984319739
+    locked: 0

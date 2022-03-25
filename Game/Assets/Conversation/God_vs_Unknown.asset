@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55c8581e6fc87bb4cac33e97af817e28, type: 3}
+  m_Name: God_vs_Unknown
+  m_EditorClassIdentifier: 
+  leftSpeaker: {fileID: 11400000, guid: a38824958071d3a41844740db5ed5fbd, type: 2}
+  rightSpeaker: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: Hello!
+  - character: {fileID: 11400000, guid: a38824958071d3a41844740db5ed5fbd, type: 2}
+    text: Who are you?!
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: Calm down human!
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: I'm a christian god and we're in hell right now.
+  - character: {fileID: 11400000, guid: a38824958071d3a41844740db5ed5fbd, type: 2}
+    text: Hell? Why?!
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: 'Did you belive in god? '
+  - character: {fileID: 11400000, guid: a38824958071d3a41844740db5ed5fbd, type: 2}
+    text: I...
+  - character: {fileID: 11400000, guid: a38824958071d3a41844740db5ed5fbd, type: 2}
+    text: I don't remember.
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: 'What''s your name? '
+  - character: {fileID: 11400000, guid: a38824958071d3a41844740db5ed5fbd, type: 2}
+    text: I don't remember that either.
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: 'It''s weird, but don''t worry about it now. '
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: There is a chance that you will come back to life. You must find the right
+      passage.
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: Go, try to get out of here. Watch out for monsters along the way.
+  - character: {fileID: 11400000, guid: a38824958071d3a41844740db5ed5fbd, type: 2}
+    text: Monsters?!
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: Yes, infernal creatures. Use the weapons you have and try not to die...again
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: 'Down the stairs you will find a man who upgrades weapons. Also use the
+      pools of holy water to heal your wounds. '
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: Since you can't remember your name, I'll call you Fred.
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: Good luck!

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55c8581e6fc87bb4cac33e97af817e28, type: 3}
+  m_Name: Last_Conversation_With_God
+  m_EditorClassIdentifier: 
+  leftSpeaker: {fileID: 11400000, guid: b5d2026f9e4d92946a4b2cf918b7379c, type: 2}
+  rightSpeaker: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: I'm surprised you made it this far.
+  - character: {fileID: 11400000, guid: b5d2026f9e4d92946a4b2cf918b7379c, type: 2}
+    text: that was motivating...
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: Anyway. Now will be your toughest battle. Prepare yourself well.
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: You won't be able to return here after going to the boss.
+  - character: {fileID: 11400000, guid: b5d2026f9e4d92946a4b2cf918b7379c, type: 2}
+    text: Okay, thanks. Wish me luck.
+  - character: {fileID: 11400000, guid: 90aa3b882528c174386a009eabb4a617, type: 2}
+    text: I always believed you would make it.
+  - character: {fileID: 11400000, guid: b5d2026f9e4d92946a4b2cf918b7379c, type: 2}
+    text: Yeah, sure... thanks anyway.
